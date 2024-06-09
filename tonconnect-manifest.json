@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/brayni139/settings/blob/main/tonconnect-manifest.json",
-  "name": "Demo telegram bot dApp",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png"
+  "url": "https://multisig.ton.org",
+  "name": "TON Multisig",
+  "iconUrl": "https://multisig.ton.org/assets/logo.png"
 }
