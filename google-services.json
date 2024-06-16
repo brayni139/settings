@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "496646344970",
+    "firebase_url": "https://reygame-af213-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reygame-af213",
+    "storage_bucket": "reygame-af213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496646344970:android:826a0ca2461719642deaf3",
+        "android_client_info": {
+          "package_name": "com.kh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPo0XEN2R2-DwrWCvQM_jHYewphPoGPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
